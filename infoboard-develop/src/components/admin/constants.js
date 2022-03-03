@@ -1,0 +1,38 @@
+export const MAX_EMERGENCY_INFO_PUBLISHED_POSTS = 1;
+export const MAX_EVENTS_PUBLISHED_POSTS = 10;
+export const MAX_NEWS_PUBLISHED_POSTS = 15;
+export const MAX_INFOS_PUBLISHED_POSTS = 5;
+
+export const NEWS_PER_PAGE = 5;
+export const NEWS_PER_PAGE_POLL_ACTIVE = 4;
+export const NEWS_UPDATE_INTERVAL = 5000;
+export const EVENTS_PER_PAGE = 5;
+export const EVENTS_UPDATE_INTERVAL = 5000;
+export const INFOS_PER_PAGE = 1;
+export const INFOS_UPDATE_INTERVAL = 7000;
+export const EMERGENCY_INFOS_PER_PAGE = 1;
+export const EMERGENCY_INFOS_UPDATE_INTERVAL = 4000;
+
+export const MAX_EVENT_TITLE_LENGTH = 55;
+export const MIN_EVENT_TITLE_LENGTH = 5;
+export const MAX_EVENT_CONTENT_LENGTH = 120;
+export const MIN_EVENT_CONTENT_LENGTH = 10;
+
+export const MAX_NEWS_TITLE_LENGTH = 70;
+export const MIN_NEWS_TITLE_LENGTH = 5;
+export const MAX_NEWS_CONTENT_LENGTH = 230;
+export const MIN_NEWS_CONTENT_LENGTH = 10;
+
+export const MAX_EMERGENCY_INFO_CONTENT_LENGTH = 150;
+export const MIN_EMERGENCY_INFO_CONTENT_LENGTH = 20;
+
+export const MAX_INFO_TITLE_LENGTH = 45;
+export const MIN_INFO_TITLE_LENGTH = 10;
+export const MAX_INFO_CONTENT_LENGTH = 1300;
+export const MIN_INFO_CONTENT_LENGTH = 100;
+export const MAX_FILE_SIZE_BYTES = 2000000;
+
+export const MAX_OPTIONS = 4;
+export const MAX_POLL_QUESTION_LENGTH = 90;
+export const MIN_POLL_QUESTION_LENGTH = 10;
+export const MAX_POLL = 1;

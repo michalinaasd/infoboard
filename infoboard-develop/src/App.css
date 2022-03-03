@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-top: 20vh;
+  margin-left: 40vh;
+  margin-right: 40vh;
+}
+
+.Buttons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
